@@ -1,0 +1,2 @@
+# StudyFlow uses Python standard-library modules only.
+# Tkinter and SQLite are included with standard Python installations.
